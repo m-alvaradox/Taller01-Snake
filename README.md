@@ -1,6 +1,8 @@
 # Taller01-Snake
 Taller de Diseño de Software
 
+Como somos dos estudiantes, ya que nuestro tercer compañero se salió de la materia, creamos otra cuenta de github en otra computadora para realizar el conflicto, esas son las capturas del "segundo integrante".
+
 # primer integrante
 
 ![Primer error](https://github.com/maragile/Taller01-Snake/assets/119761861/2457122a-898b-4783-aae7-c96e129e0131)
